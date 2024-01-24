@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/WuKunhuan/Innowing_Workshop/static/js/main.d4cee0fa.js",
+    "main.js": "/WuKunhuan/Innowing_Workshop/static/js/main.8ffd5bb2.js",
     "index.html": "/WuKunhuan/Innowing_Workshop/index.html",
-    "main.d4cee0fa.js.map": "/WuKunhuan/Innowing_Workshop/static/js/main.d4cee0fa.js.map"
+    "main.8ffd5bb2.js.map": "/WuKunhuan/Innowing_Workshop/static/js/main.8ffd5bb2.js.map"
   },
   "entrypoints": [
-    "static/js/main.d4cee0fa.js"
+    "static/js/main.8ffd5bb2.js"
   ]
 }
