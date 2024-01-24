@@ -1,16 +1,10 @@
 {
   "files": {
-    "main.css": "/WuKunhuan/Innowing_Workshop/static/css/main.f855e6bc.css",
-    "main.js": "/WuKunhuan/Innowing_Workshop/static/js/main.345c82a1.js",
-    "static/js/787.d58dd634.chunk.js": "/WuKunhuan/Innowing_Workshop/static/js/787.d58dd634.chunk.js",
-    "static/media/logo.svg": "/WuKunhuan/Innowing_Workshop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.js": "/WuKunhuan/Innowing_Workshop/static/js/main.d4cee0fa.js",
     "index.html": "/WuKunhuan/Innowing_Workshop/index.html",
-    "main.f855e6bc.css.map": "/WuKunhuan/Innowing_Workshop/static/css/main.f855e6bc.css.map",
-    "main.345c82a1.js.map": "/WuKunhuan/Innowing_Workshop/static/js/main.345c82a1.js.map",
-    "787.d58dd634.chunk.js.map": "/WuKunhuan/Innowing_Workshop/static/js/787.d58dd634.chunk.js.map"
+    "main.d4cee0fa.js.map": "/WuKunhuan/Innowing_Workshop/static/js/main.d4cee0fa.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.345c82a1.js"
+    "static/js/main.d4cee0fa.js"
   ]
 }
