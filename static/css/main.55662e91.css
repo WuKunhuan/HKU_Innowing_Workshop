@@ -1,2 +1,0 @@
-.nav-bar{align-items:center;border-bottom:.5px solid #ddd;display:flex;justify-content:space-between;margin:10px;overflow:auto}.nav-bar-logo{float:left;height:auto;margin-left:10px;margin-right:10px;width:200px}.nav-bar-tabs{display:flex}.nav-bar-tab{cursor:pointer;flex:100% 1;font-family:Euphemia UCAS,sans-serif;padding:5px 10px}.nav-bar-tab.active{border-bottom:3px solid #619346!important}.nav-bar-tab:hover{animation:cubic-bezier(1,0,0,1);border-bottom:3px solid #61934677}
-/*# sourceMappingURL=main.55662e91.css.map*/
