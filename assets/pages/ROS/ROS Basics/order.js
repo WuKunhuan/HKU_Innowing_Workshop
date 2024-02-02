@@ -1,8 +1,8 @@
 export let order = [
-    "ROS Environment.html", 
-    "ROS Filesystem.html", 
-    "ROS Package.html", 
-    "ROS Nodes.html", 
-    "ROS Topics.html", 
-    "ROS Services.html", 
+    "ROS Environment", 
+    "ROS Filesystem", 
+    "ROS Package", 
+    "ROS Nodes", 
+    "ROS Topics", 
+    "ROS Services", 
 ]; 
