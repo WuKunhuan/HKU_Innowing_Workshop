@@ -1,5 +1,6 @@
 
 const page_content = `
+
 <h1>Motivation</h1>
 
 <text>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
