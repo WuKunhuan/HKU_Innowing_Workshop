@@ -1,8 +1,6 @@
-export function order() {
-    return ([
-        "Home", 
-        "ROS", 
-        "Hexapod Spider", 
-        "Automatic Rover", 
-    ]); 
-}
+export let order = [
+    "Home", 
+    "ROS", 
+    "Hexapod Spider", 
+    "Automatic Rover", 
+]; 
